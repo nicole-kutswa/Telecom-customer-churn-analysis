@@ -1,10 +1,11 @@
 <div align="right">
   
-[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
+[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/git.svg)][1]
+[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
 
 [1]: https://github.com/nicole-kutswa
 [2]: https://www.linkedin.com/in/nicole-kutswa/
+
 </div>
 
 
