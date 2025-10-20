@@ -9,7 +9,7 @@
 </div>
 
 
-# <div align="center">Telecom Customer Churn Prediction</div>
+# <div align="center">Telecom Customer Churn Analysis</div>
 
 ![Intro](https://github.com/nicole-kutswa/Telecom-customer-churn-analysis/blob/main/output/customer%20churn.jpeg?raw=true)
 
