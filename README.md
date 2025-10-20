@@ -4,7 +4,7 @@
 [![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
 
 [1]: https://github.com/nicole-kutswa
-[2]: https://www.linkedin.com/in/nicole-kutswa/
+[2]: https://www.linkedin.com/in/nicole-kutswa/ 
 
 </div>
 
